@@ -74,5 +74,5 @@ example/proguard-project.txt
 *proguard-project.txt
 
 .gradle/
-gradle/*
-gradlew*
+
+
